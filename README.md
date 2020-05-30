@@ -1,3 +1,3 @@
-# Taylor's Studio
+#Taylor's Studio
 
-Theme for multi-page website home studio project
+Multi-page website for a home studio project
